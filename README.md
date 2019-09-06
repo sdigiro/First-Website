@@ -1,2 +1,2 @@
 # First-Website
-First website assignment for CISC361
+First website assignment for CISC474
